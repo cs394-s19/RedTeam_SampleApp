@@ -236,20 +236,6 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
-    },
-
-    {
-      "id": 19,
-      "sku": 57294182398357892,
-      "title": "Maximum Tiger Double-Pocketed",
-      "description": "",
-      "availableSizes": ["ML", "XXL"],
-      "style": "",
-      "price": 36.0,
-      "installments": 6,
-      "currencyId": "USD",
-      "currencyFormat": "$",
-      "isFreeShipping": true
     }
   ]
 }
