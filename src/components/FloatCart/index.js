@@ -79,7 +79,7 @@ class FloatCart extends Component {
     } = this.props.cartTotal;
 
     if (!productQuantity) {
-      alert('Add some product in the cart!');
+      alert('Please add a product to your cart.');
     } else {
       alert(
         `Checkout - Subtotal: ${currencyFormat} ${formatPrice(
