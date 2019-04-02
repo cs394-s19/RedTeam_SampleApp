@@ -28,3 +28,6 @@ describe('Shopping cart', () => {
     expect(bagProductsQtd).to.equal('0');
   });
 });
+
+
+/* sadfasfd */ 
