@@ -9,8 +9,8 @@ export default () => (
     aria-label="View source on Github"
   >
     <svg
-      width="80"
-      height="80"
+      width="90"
+      height="90"
       viewBox="0 0 250 250"
       style={{
         fill: '#151513',
